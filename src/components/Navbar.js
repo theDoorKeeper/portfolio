@@ -7,19 +7,19 @@ export const Navbar = () => {
             <ul>
                 <NavLink to="/">
                 <li className="nav-element">
-
+                    about
                 </li>
                  </NavLink>
 
-                 <NavLink to="/">
+                 <NavLink to="/Skills">
                 <li className="nav-element">
-
+                    Skills
                 </li>
                 </NavLink>
-
-                <NavLink to="/">
+               
+                <NavLink to="/Projects">
                 <li className="nav-element">
-
+                    Projects
                 </li>
                 </NavLink>
                 
