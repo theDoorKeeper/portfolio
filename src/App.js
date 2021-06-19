@@ -1,5 +1,5 @@
 import './App.css';
-import About from './components/About';
+import { About }from './components/About';
 import { Navbar } from './components/Navbar';
 import { Skills } from './components/Skills';
 import { Projects } from './components/Projects'
@@ -27,6 +27,7 @@ function App() {
         <Route exact path='/Projects'>
           <Projects/>
           </Route>
+
 
       </Switch>
     </div>
