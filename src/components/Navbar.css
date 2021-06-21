@@ -1,13 +1,14 @@
 .navbar{
     list-style: none;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     height: 2rem;
     color: whitesmoke;
-    width: 80%;
     margin:auto;
     padding: 2rem;
     font-size: 2rem;
+    max-width: 100%;
+    gap: 1rem;
 }
  a, a:hover, a:focus, a:active {
      text-decoration: none;
