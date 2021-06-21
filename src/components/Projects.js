@@ -53,11 +53,11 @@ export const Projects = () => {
 
             <div className="project-links">
 
-             <a href="https://github.com/theDoorKeeper/shopping-cart-react" target="_blank">
+             <a href="https://github.com/theDoorKeeper/memory-card-game" target="_blank">
 	            <img src={github} />
              </a>
 
-             <a href="https://thedoorkeeper.github.io/shopping-cart-react/" target="_blank">
+             <a href="https://thedoorkeeper.github.io/memory-card-game/" target="_blank">
 	            <button className="live-button">Live code</button>
              </a>
 
@@ -78,11 +78,11 @@ export const Projects = () => {
 
             <div className="project-links">
 
-             <a href="https://github.com/theDoorKeeper/shopping-cart-react" target="_blank">
+             <a href="https://github.com/theDoorKeeper/react-cv-project" target="_blank">
 	            <img src={github} />
              </a>
 
-             <a href="https://thedoorkeeper.github.io/shopping-cart-react/" target="_blank">
+             <a href="https://thedoorkeeper.github.io/react-cv-project/" target="_blank">
 	            <button className="live-button">Live code</button>
              </a>
 
@@ -101,11 +101,11 @@ export const Projects = () => {
 
             <div className="project-links">
 
-             <a href="https://github.com/theDoorKeeper/shopping-cart-react" target="_blank">
+             <a href="https://github.com/theDoorKeeper/weather_app" target="_blank">
 	            <img src={github} />
              </a>
 
-             <a href="https://thedoorkeeper.github.io/shopping-cart-react/" target="_blank">
+             <a href="https://thedoorkeeper.github.io/weather_app/" target="_blank">
 	            <button className="live-button">Live code</button>
              </a>
 
@@ -125,11 +125,11 @@ export const Projects = () => {
 
             <div className="project-links">
 
-             <a href="https://github.com/theDoorKeeper/shopping-cart-react" target="_blank">
+             <a href="https://github.com/theDoorKeeper/ToDo_List" target="_blank">
 	            <img src={github} />
              </a>
 
-             <a href="https://thedoorkeeper.github.io/shopping-cart-react/" target="_blank">
+             <a href="https://thedoorkeeper.github.io/ToDo_List/" target="_blank">
 	            <button className="live-button">Live code</button>
              </a>
 
@@ -147,11 +147,11 @@ export const Projects = () => {
 
             <div className="project-links">
 
-             <a href="https://github.com/theDoorKeeper/shopping-cart-react" target="_blank">
+             <a href="https://github.com/theDoorKeeper/TicTacToe" target="_blank">
 	            <img src={github} />
              </a>
 
-             <a href="https://thedoorkeeper.github.io/shopping-cart-react/" target="_blank">
+             <a href="https://thedoorkeeper.github.io/TicTacToe/" target="_blank">
 	            <button className="live-button">Live code</button>
              </a>
 
@@ -170,11 +170,11 @@ export const Projects = () => {
 
             <div className="project-links">
 
-             <a href="https://github.com/theDoorKeeper/shopping-cart-react" target="_blank">
+             <a href="https://github.com/theDoorKeeper/calculator_JS" target="_blank">
 	            <img src={github} />
              </a>
 
-             <a href="https://thedoorkeeper.github.io/shopping-cart-react/" target="_blank">
+             <a href="https://thedoorkeeper.github.io/Calculator_JS/" target="_blank">
 	            <button className="live-button">Live code</button>
              </a>
 
