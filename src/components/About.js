@@ -1,8 +1,9 @@
 import React from 'react';
 import './About.css';
+import { motion } from "framer-motion";
 export const About = () => {
     return (
-        <div className="about-main">
+        <motion.div className="about-main" initial={{ x: '-100vw' }} animate={{ x: 0 }}>
             <div className="title">
                 <h1> Chakib Boumaraf </h1>
                 <h4>Front end develloper</h4>
@@ -20,6 +21,6 @@ export const About = () => {
                      </ul>
                 </div>
             
-        </div>
+        </motion.div>
     )
 }

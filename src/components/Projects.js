@@ -12,10 +12,11 @@ import html from '../assets/html.svg';
 import react from '../assets/react.svg';
 import js from '../assets/JS.svg';
 import github from '../assets/github.svg';
+import { motion } from "framer-motion";
 
 export const Projects = () => {
     return (
-        <div className="project-container">
+        <motion.div className="project-container" initial={{ x: '-100vw' }} animate={{ x: 0 }}>
             <div className="project">
              <header className="title">Project : Shopping cart</header>
              <img src={shop}></img>
@@ -181,6 +182,6 @@ export const Projects = () => {
 
             </div>
             
-        </div>
+        </motion.div>
     )
 }
