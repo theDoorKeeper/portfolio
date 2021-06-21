@@ -1,0 +1,14 @@
+.skills-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 5rem;
+    justify-content: space-between;
+    
+}
+.skills-logo{
+    cursor: pointer;
+}
+.skills-logo:hover{
+    scale: 1.5;
+}
