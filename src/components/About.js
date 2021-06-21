@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import './About.css';
 
 export const About = () => {
     return (
@@ -12,6 +13,11 @@ export const About = () => {
                 I discovered a passion in programming , and decided to drop out to continue on this road , i love learning new concepts ,applying them , solving problems,
                 my grit is what got me from not knowing what html was to building a few projects !
                      </p>
+                     <ul>
+                         <li>  Education : 2nd year in BioTechnology</li>
+                        <li>Languages : English (fuent) French(Native Language) Arabic: (Professional Working Proficiency)
+                          North African Dialect (Native language) Japanese(Elementary Proficiency)</li> 
+                     </ul>
                 </div>
             
         </div>

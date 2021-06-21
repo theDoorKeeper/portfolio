@@ -1,0 +1,19 @@
+.about-main{
+    color:#AFAFFD;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-left: 8%;
+   align-items: center;
+   text-align: center;
+   font-size: 1.3rem;
+
+}
+
+.description{
+    justify-self: left;
+}
+ul{
+    list-style: none;
+    text-align: left;
+}
