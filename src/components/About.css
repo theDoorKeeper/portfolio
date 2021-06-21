@@ -3,21 +3,18 @@
     display: flex;
     flex-direction: column;
     width: 50%;
-    margin-left: 8%;
-   align-items: center;
-   text-align: center;
+    margin-left: 5%;
+   align-items: flex-start;
    font-size: 1.3rem;
 
 }
 
-.description{
-    justify-self: left;
-}
+
 ul{
     list-style: none;
-   text-align: left; 
 }
 
 .about-list-element{
     border-left: whitesmoke solid 1px;
+    padding: 8px;
 }
