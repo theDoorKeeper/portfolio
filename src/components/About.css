@@ -15,5 +15,9 @@
 }
 ul{
     list-style: none;
-    text-align: left;
+   text-align: left; 
+}
+
+.about-list-element{
+    border-left: whitesmoke solid 1px;
 }

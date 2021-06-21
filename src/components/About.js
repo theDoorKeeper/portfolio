@@ -14,8 +14,9 @@ export const About = () => {
                 my grit is what got me from not knowing what html was to building a few projects !
                      </p>
                      <ul>
-                         <li>  Education : 2nd year in BioTechnology</li>
-                        <li>Languages : English (fuent) French(Native Language) Arabic: (Professional Working Proficiency)
+                         <li className="about-list-element">  Education : 2nd year in BioTechnology</li>
+                         <br/>
+                        <li className="about-list-element"> Languages : English (fuent) French(Native Language) Arabic: (Professional Working Proficiency)
                           North African Dialect (Native language) Japanese(Elementary Proficiency)</li> 
                      </ul>
                 </div>
