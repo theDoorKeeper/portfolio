@@ -23,7 +23,7 @@ export const About = () => {
                           North African Dialect (Native language) Japanese(Elementary Proficiency)</li> 
                      </ul>
                      <div>
-                         Contact :linkedin<a href="https://www.linkedin.com/in/chakib-boumaraf-026582211/"  target="blank">  <img src={linkedin} alt="lindkin logo" className="linkedin"/>   </a> 
+                         linkedin<a href="https://www.linkedin.com/in/chakib-boumaraf-026582211/"  target="blank">  <img src={linkedin} alt="lindkin logo" className="linkedin"/>   </a> 
                          <br/> GMail <img src={gmail} alt="gmail logo" className="linkedin" /> : boumarafchakib4@gmail.com
                      </div>
                 </div>
