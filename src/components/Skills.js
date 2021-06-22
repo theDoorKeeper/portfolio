@@ -9,7 +9,7 @@ import { motion } from "framer-motion";
 
 export const Skills = () => {
     return (
-        <motion.div className="skills-wrapper" initial={{ x: '-100vw' }} animate={{ x: 0 }}>
+        <motion.div className="skills-wrapper" initial={{ x: '-50vw' }} animate={{ x: 0 }}  transition={{ duration: .5 }}>
             <img src={css} alt="css logo" className="skills-logo"/>
             <img src={html} alt="html logo" className="skills-logo"/>
             <img src={react} alt="react logo" className="skills-logo"/>

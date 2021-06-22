@@ -6,9 +6,9 @@ export const Navbar = () => {
     return (
         <div className='navbar-containr'>
             <ul className='navbar'>
-                <NavLink to="/">
+                <NavLink to="/portfolio">
                 <li className="nav-element">
-                    about
+                    About
                 </li>
                  </NavLink>
 
