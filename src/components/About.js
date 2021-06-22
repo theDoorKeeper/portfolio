@@ -1,6 +1,9 @@
 import React from 'react';
 import './About.css';
+import linkedin from '../assets/linkedin.svg';
+import gmail from '../assets/gmail.svg';
 import { motion } from "framer-motion";
+
 export const About = () => {
     return (
         <motion.div className="about-main" initial={{ x: '-100vw' }} animate={{ x: 0 }}>
@@ -19,6 +22,10 @@ export const About = () => {
                         <li className="about-list-element"> Languages : English (fuent) French(Native Language) Arabic: (Professional Working Proficiency)
                           North African Dialect (Native language) Japanese(Elementary Proficiency)</li> 
                      </ul>
+                     <div>
+                         Contact :linkedin<a href="https://www.linkedin.com/in/chakib-boumaraf-026582211/"  target="blank">  <img src={linkedin} alt="lindkin logo" className="linkedin"/>   </a> 
+                         <br/> GMail <img src={gmail} alt="gmail logo" className="linkedin" /> : boumarafchakib4@gmail.com
+                     </div>
                 </div>
             
         </motion.div>

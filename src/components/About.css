@@ -18,3 +18,7 @@ ul{
     border-left: whitesmoke solid 1px;
     padding: 8px;
 }
+
+.linkedin{
+    filter:  brightness(0) invert(1);
+}
