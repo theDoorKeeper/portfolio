@@ -21,7 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://theDoorKeeper.github.io/portfolio",
+  "homepage": "https://www.chakibdev.tk",
   "eslintConfig": {
     "extends": [
       "react-app",
