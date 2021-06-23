@@ -6,7 +6,7 @@ export const Navbar = () => {
     return (
         <div className='navbar-containr'>
             <ul className='navbar'>
-                <NavLink activeClassName="active"  to="/portfolio">
+                <NavLink activeClassName="active"  to="/">
                 <li className="nav-element">
                     About
                 </li>
