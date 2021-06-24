@@ -6,19 +6,19 @@ export const Navbar = () => {
     return (
         <div className='navbar-containr'>
             <ul className='navbar'>
-                <NavLink activeClassName="active"  to="/">
+                <NavLink activeClassName="active" exact to="/">
                 <li className="nav-element">
                     About
                 </li>
                  </NavLink>
 
-                 <NavLink activeClassName="active"  to="/Skills">
+                 <NavLink activeClassName="active" exact to="/Skills">
                 <li className="nav-element">
                     Skills
                 </li>
                 </NavLink>
                
-                <NavLink activeClassName="active"  to="/Projects">
+                <NavLink activeClassName="active" exact to="/Projects">
                 <li className="nav-element">
                     Projects
                 </li>
