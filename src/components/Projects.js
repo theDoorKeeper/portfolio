@@ -18,11 +18,11 @@ export const Projects = () => {
     return (
         <motion.div className="project-container" initial={{ x: '-50vw' }} animate={{ x: 0 }}  transition={{ duration: .5 }}>
             <div className="project">
-             <header className="title">Project : Shopping cart</header>
+             <header className="title"> Shopping cart</header>
              <img alt="icon" className="project-img" src={shop}></img>
              <div className="project-description">
             Technologies used : <img alt="icon" className="technology" src={react}/>   <img alt="icon" className="technology" src={html}/>   <img alt="icon" className="technology" src={css}/> .<br/>
-            Desc : shopping cart made with react an react router dom , used framer motion for the animations , it has a Navbar with the number of items purchased next to 
+            Desc : shopping cart made with react and react router dom , used framer motion for the animations , it has a Navbar with the number of items purchased next to 
             the cart icon  , the catalogue is fetched from the Fortnine API  , you can increment and decrement the number of items bought from the catalogue and the cart ,
             i used lifted states to send the data between components . (i was going to use USeContext , but decided it wasn't needed in this project).
              </div>
@@ -42,7 +42,7 @@ export const Projects = () => {
             </div>
 
             <div className="project">
-            <header className="title">Project : Memory card game</header>
+            <header className="title"> Memory card game</header>
             <img alt="icon" className="project-img" src={memoryGame}></img>
             <div className="project-description">
             Technologies used : <img alt="icon" className="technology" src={react}/>   <img alt="icon" className="technology" src={html}/>   <img alt="icon" className="technology" src={css}/>. <br/>
@@ -67,7 +67,7 @@ export const Projects = () => {
 
 
             <div className="project">
-            <header className="title">Project : CV-maker</header>
+            <header className="title"> CV-maker App</header>
             <img alt="icon" className="project-img" src={cv}></img>
             <div className="project-description">
             Technologies used : <img alt="icon" className="technology" src={react}/>   <img alt="icon" className="technology" src={html}/>   <img alt="icon" className="technology" src={css}/>. <br/>
@@ -91,7 +91,7 @@ export const Projects = () => {
             </div>
 
             <div className="project">
-            <header className="title">Project : weather App</header>
+            <header className="title"> Weather App</header>
             <img alt="icon" className="project-img" src={weather}></img>
             <div className="project-description">
             Technologies used : <img alt="icon" className="technology" src={js}/>   <img alt="icon" className="technology" src={html}/>   <img alt="icon" className="technology" src={css}/>. <br/>
@@ -114,7 +114,7 @@ export const Projects = () => {
             </div>
 
             <div className="project">
-            <header className="title">Project : Todo app</header>
+            <header className="title"> To Do app</header>
             <img alt="icon" className="project-img" src={todo}></img>
             <div className="project-description">
             Technologies used : <img alt="icon" className="technology" src={js}/>   <img alt="icon" className="technology" src={html}/>   <img alt="icon" className="technology" src={css}/>. <br/>
@@ -138,7 +138,7 @@ export const Projects = () => {
             </div>
 
             <div className="project">
-            <header className="title">Project : Tictactoe</header>
+            <header className="title"> Tictactoe</header>
             <img alt="icon" className="project-img" src={tictactoe}></img>
             <div className="project-description">
             Technologies used : <img alt="icon" className="technology" src={js}/>   <img alt="icon" className="technology" src={html}/>   <img alt="icon" className="technology" src={css}/>. <br/>
@@ -161,7 +161,7 @@ export const Projects = () => {
 
 
             <div className="project">
-            <header className="title">Project : Calculator</header>
+            <header className="title"> Calculator</header>
             <img alt="icon" className="project-img" src={calculator}></img>
             <div className="project-description">
             Technologies used : <img alt="icon" className="technology" src={js}/>   <img alt="icon" className="technology" src={html}/>   <img alt="icon" className="technology" src={css}/>. <br/>
