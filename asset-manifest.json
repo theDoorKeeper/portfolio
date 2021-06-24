@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.9c4f7c23.chunk.css",
-    "main.js": "/static/js/main.b5d78e87.chunk.js",
-    "main.js.map": "/static/js/main.b5d78e87.chunk.js.map",
+    "main.js": "/static/js/main.ddba05d4.chunk.js",
+    "main.js.map": "/static/js/main.ddba05d4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b83279d6.js",
     "runtime-main.js.map": "/static/js/runtime-main.b83279d6.js.map",
     "static/js/2.170c2183.chunk.js": "/static/js/2.170c2183.chunk.js",
@@ -14,7 +14,7 @@
     "static/media/index.css": "/static/media/background.f44a8ba0.png",
     "static/media/calculator.0fc7bdf6.png": "/static/media/calculator.0fc7bdf6.png",
     "static/media/css.2dff5e0e.svg": "/static/media/css.2dff5e0e.svg",
-    "static/media/cv.150d78e9.png": "/static/media/cv.150d78e9.png",
+    "static/media/cv.aa6cfe78.png": "/static/media/cv.aa6cfe78.png",
     "static/media/git.0f39d64e.svg": "/static/media/git.0f39d64e.svg",
     "static/media/github.04be58c1.svg": "/static/media/github.04be58c1.svg",
     "static/media/gmail.b2c35c32.svg": "/static/media/gmail.b2c35c32.svg",
@@ -22,7 +22,7 @@
     "static/media/linkedin.27a3f479.svg": "/static/media/linkedin.27a3f479.svg",
     "static/media/memory-game.0a6087ba.png": "/static/media/memory-game.0a6087ba.png",
     "static/media/react.76cad344.svg": "/static/media/react.76cad344.svg",
-    "static/media/shop.e2bec045.png": "/static/media/shop.e2bec045.png",
+    "static/media/shop.7e72d9c7.png": "/static/media/shop.7e72d9c7.png",
     "static/media/tictactoe.76eaa55c.png": "/static/media/tictactoe.76eaa55c.png",
     "static/media/todo.088fd1ba.png": "/static/media/todo.088fd1ba.png",
     "static/media/weather.5c3a265c.png": "/static/media/weather.5c3a265c.png"
@@ -31,6 +31,6 @@
     "static/js/runtime-main.b83279d6.js",
     "static/js/2.170c2183.chunk.js",
     "static/css/main.9c4f7c23.chunk.css",
-    "static/js/main.b5d78e87.chunk.js"
+    "static/js/main.ddba05d4.chunk.js"
   ]
 }
