@@ -16,7 +16,7 @@ export const Skills = () => {
             <img src={react} alt="react logo" className="skills-logo"/>
             <img src={git} alt="git logo" className="skills-logo"/>
             <img src={js} alt="js logo" className="skills-logo"/>
-            <img src={jest} alt="jest logo" className="skills-logo" style={{ height:200, width:'auto' }}/>
+            <img src={jest} alt="jest logo" className="skills-logo" style={{ height:150, width:'auto' }}/>
         </motion.div>
     )
 }

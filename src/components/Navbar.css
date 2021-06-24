@@ -20,3 +20,25 @@
    font-size: 2.3rem;
      
  }
+
+ @media only screen and (max-width: 600px) {
+  .navbar{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    height: 2rem;
+    color: whitesmoke;
+    margin:auto;
+    padding: 1rem;
+    font-size: 1rem;
+    max-width: 100%;
+    gap: 1rem;
+}
+.active{
+  font-weight: 1200;
+  font-size: 1.5rem;
+    
+}
+
+
+}
